@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @marioapg-ldm and I love to improve everyday.
+- 👀 I’m interested in learn about backend technologies...
+- 🌱 I’m currently learning NodeJS...
+- 📫 How to reach me @TInmortal at Telegram...
+
+<!---
+marioapg-ldm/marioapg-ldm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
